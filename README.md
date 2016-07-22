@@ -1,6 +1,5 @@
 # w2v-on-harry-potter
-code for full stack w2v on HP website
+This repo contains code for my word2vec on Harry Potter project. For more information on word2vec and how I built my application check out my 2 blog post below.
 
-
-blog post 1:
-blog post 2:
+Word2Vec on Harry Potter
+Behind the Scenes of Word2Vec on Harry Potter
