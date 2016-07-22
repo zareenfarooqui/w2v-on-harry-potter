@@ -1,5 +1,5 @@
 # w2v-on-harry-potter
-Code repositary for my word2vec on Harry Potter application. 
+Code repository for my word2vec on Harry Potter application. 
 
 You can visit this project at www.zareenfarooqui.com/w2v
 
